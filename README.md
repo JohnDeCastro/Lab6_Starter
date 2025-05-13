@@ -1,7 +1,7 @@
 # Lab 6 - Starter
 
-##Github Pages:
+## Github Pages:
 https://johndecastro.github.io/Lab6_Starter/ 
 
-##Author:
+## Author:
 John De Castro
